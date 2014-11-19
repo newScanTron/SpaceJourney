@@ -45,10 +45,4 @@ public class SetupClass extends BasicGame {
 		app.setDisplayMode(1200, 800, false);
 		app.start();
 	}
-
-
-
-
-
-
 }
