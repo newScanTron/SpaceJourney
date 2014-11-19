@@ -9,7 +9,8 @@ import org.newdawn.slick.SlickException;
 import org.newdawn.slick.SpriteSheet;
 
 public class SetupClass extends BasicGame {
-	
+
+    
 	private Image ship = null;
 	private Image enemySet = null;
 	private SpriteSheet enemies = null;
